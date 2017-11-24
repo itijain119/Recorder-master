@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/selected"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/ic_recording0"
+        android:duration="600" />
+    <item
+        android:drawable="@drawable/ic_recording1"
+        android:duration="600" />
+    <item
+        android:drawable="@drawable/ic_recording2"
+        android:duration="600" />
+    <item
+        android:drawable="@drawable/ic_recording3"
+        android:duration="600" />
+</animation-list>

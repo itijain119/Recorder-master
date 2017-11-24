@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <!-- 录音列表 -->
+    <string name="menu_item_record">New></string>
+    <string name="new_voice_record">Click to create a new record</string>
+    <string name="play_status_playing">Now playing</string>
+    <string name="play_status_paused">Paused</string>
+    <string name="play_status_stop">Stopped</string>
+    <string name="play_status_err">Error</string>
+    <string name="item_file_size">size: %1$s</string>
+    <!-- 录音界面 -->
+    <string name="activity_record_new">start recording</string>
+    <string name="menu_item_finish">carry out</string>
+    <string name="record_finish">carry out</string>
+    <string name="rec_status_ready">click the button to start recording</string>
+    <string name="rec_status_recording">recording，click to pause，click finish to complete</string>
+    <string name="rec_status_paused">Paused，click button again to continue，click finish to complete</string>
+
+    <string name="err_nosd">sd card is not available</string>
+    <string name="err_cannot_record">recording cannot get permission</string>
+    <!-- 通知栏 -->
+    <string name="notif_title">Now Playing: %1$s</string>
+    <string name="todo">todo</string>
+
+</resources>
